@@ -1,4 +1,4 @@
-# Django IPFS and Encryption Project
+# Forensic Data Storage
 
 ## About the Project
 This is a Django-based web application designed to handle text data storage with IPFS (InterPlanetary File System) and AES encryption. The project includes functionality for encrypting and storing data, as well as managing user profiles and custom data fields. Key features include:
